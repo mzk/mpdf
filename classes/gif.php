@@ -240,7 +240,7 @@ class CGIFCOLORTABLE
 	///////////////////////////////////////////////////////////////////////////
 
 	// CONSTRUCTOR
-	function CGIFCOLORTABLE()
+	function __construct()
 	{
 		unSet($this->m_nColors);
 		unSet($this->m_arColors);
