@@ -687,4 +687,3 @@ class pdf_parser {
 	
 }
 
-?>

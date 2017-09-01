@@ -506,4 +506,3 @@ function openTagTOCPAGEBREAK($attr) {
 
 }
 
-?>

@@ -233,4 +233,3 @@ function _DeleteGDIObject($idx) {
 
 }
 
-?>

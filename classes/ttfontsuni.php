@@ -4729,4 +4729,3 @@ $LuCoverage = '.var_export($this->LuCoverage , true).';
 }
 
 
-?>

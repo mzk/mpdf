@@ -7,4 +7,3 @@ $desc=array('Flags'=>33,'FontBBox'=>'[-23 -250 715 805]','ItalicAngle'=>0,'Ascen
 $up=-100;
 $ut=50;
 
-?>
